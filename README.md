@@ -19,6 +19,6 @@ $bal cardNumber expMonth expYear cvv
 ```
 ###### carding, hacking, etc is illegal.
 
-maybe a simple captcha could possibly help deter some of it. 
+maybe a simple captcha could possibly help deter some of it. (most?)
 
-without contradicting the simplicity and ease of activation, maybe a registration/alt login method? idk.
+without contradicting the simplicity and ease of activation, maybe a registration/alt login method?
