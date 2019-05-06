@@ -4,9 +4,9 @@ this proof of concept demonstrates how these may be drained, stalked, or worse. 
 
 u can google bins, then find (old) cards in dumps, forums, databases, etc.
 
-###### drained - siphon money off card(s) (probably millions lost by vanilla)
+###### drained - siphon money off card(s) (probably millions lost by vanilla / civilians)
 
-###### stalked - monitor usage of card(s) (e.x. by abusive hackers, govs, work, people)
+###### stalked - monitor usage of card(s) (how much, what, when, where, who by e.x. abusive people, work, govs, hackers)
 
 ###### worse - laundry mat for terrorism? (just read news articles while researching. also, cards randomly popping back up with high balances that were depleted. scams. etc)
 
