@@ -1,7 +1,6 @@
 # Vanilla Card Balance Checkers
 
-## check balance of vanilla card(s)
-
+### check balance of vanilla card(s)
 
 this proof of concept also demonstrates how these may be drained, stalked, or worse. for eductional purposes only.
 
