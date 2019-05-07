@@ -24,3 +24,5 @@ $bal cardNumber expMonth expYear cvv
 maybe a simple captcha could possibly help deter some of it. (most?)
 
 without contradicting the simplicity and ease of activation, maybe a registration/alt login method?
+
+i guess they could then just try looping $0.01 transactions until card iz kill so idk
