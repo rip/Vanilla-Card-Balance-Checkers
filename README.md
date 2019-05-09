@@ -2,6 +2,17 @@
 
 ### check balance of vanilla card(s)
 
+##### output:
+
+```
+$bal cardNumber expMonth expYear cvv
+$bal cardNumber expMonth expYear cvv
+$bal cardNumber expMonth expYear cvv
+...
+```
+
+###### carding, hacking, etc is illegal.
+
 this proof of concept also demonstrates how these may be drained, stalked, or worse. for eductional purposes only.
 
 u can google bins, then find (old) cards in dumps, forums, databases, etc.
@@ -12,15 +23,6 @@ u can google bins, then find (old) cards in dumps, forums, databases, etc.
 
 ###### worse - laundry mat for terrorism? (just read news articles while researching. also, cards randomly popping back up with high balances that were depleted. scams. etc)
 
-##### output:
-```
-$bal cardNumber expMonth expYear cvv
-$bal cardNumber expMonth expYear cvv
-$bal cardNumber expMonth expYear cvv
-...
-```
-###### carding, hacking, etc is illegal.
+#### maybe a simple captcha could possibly help deter some of it. (most?)
 
-maybe a simple captcha could possibly help deter some of it. (most?)
-
-without contradicting the simplicity and ease of activation, maybe a registration/alt login method?
+##### without contradicting the simplicity and ease of activation, maybe a registration/alt login method?
